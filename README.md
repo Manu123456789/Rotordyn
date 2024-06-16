@@ -5,6 +5,7 @@ dynamics may allow for the implementation of Active Magnetic Bearings to enhance
 predictability and control of such vibrations, aiming to sustain operational stability above
 critical speed thresholds. These systems require accurate modeling because they rely on
 dependable model-based rotor levitation controllers for optimal operation.
+
 Techniques relating to the development framework for finite element models aimed at
 streamlining rotor dynamics analysis are presented in this report. An open-source software
 suite based on rotor dynamics principles was reviewed, including examples that demonstrate its application in real-world scenarios. This software package will be used as a basis
